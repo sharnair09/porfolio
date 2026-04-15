@@ -1,0 +1,29 @@
+{
+    "skills": [
+        { "name": "HTML/CSS", "level": 95 },
+        { "name": "JavaScript", "level": 85 },
+        { "name": "React", "level": 80 },
+        { "name": "Node.js", "level": 70 },
+        { "name": "Responsive Design", "level": 90 }
+    ],
+    "projects": [
+        {
+            "title": "E-commerce Site",
+            "description": "Full-stack shopping platform with payment integration.",
+            "image": "https://via.placeholder.com/300x200/007bff/ffffff?text=E-commerce",
+            "link": "https://example.com/project1"
+        },
+        {
+            "title": "Task Manager App",
+            "description": "React-based app with real-time updates and local storage.",
+            "image": "https://via.placeholder.com/300x200/28a745/ffffff?text=Task+Manager",
+            "link": "https://example.com/project2"
+        },
+        {
+            "title": "Portfolio Dashboard",
+            "description": "Personal analytics dashboard using Chart.js.",
+            "image": "https://via.placeholder.com/300x200/ffc107/000000?text=Dashboard",
+            "link": "https://example.com/project3"
+        }
+    ]
+}
